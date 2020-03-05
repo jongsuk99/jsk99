@@ -15,10 +15,15 @@ journ_thirtytofourfour - Journey to Work - Total Sex / Total - Commuting duratio
 journ_fourfivetofifnine - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 45 to 59 minutes
 journ_overanhour - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 60 minutes and over
 household_size - Dwelling characteristics / Total - Private households by household size - 100% data
-avg_num_household - Housing - Total Sex / Average number of rooms per dwelling
+avg_num_household-Dwelling characteristics / Total - Private households by household size average - 100% data
+avg_num_room - Housing - Total Sex / Average number of rooms per dwelling
 house_cond - Dwelling characteristics / Average household size
 house_maj_maint -Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Major repairs needed
 house_reg_maint - COL4 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Only regular maintenance or minor repairs needed
 income_after_tax_median - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data / Median after-tax income in 2015 among recipients ($)
+unemp_rate - Labour - Total Sex / Unemployment rate
+emp_rate - COL1 - Labour - Total Sex / Employment rate
+
+
 
 
