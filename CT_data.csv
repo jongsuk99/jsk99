@@ -1,4 +1,4 @@
-CTUID,pop,land_kmsq,single_det,edu_total,no_edu,edu_dip,edu_postsec,pop_dens,jour_work,jour_lessfifteen,jour_fiftotwnine,journ_thirtytofourfour,journ_fourfivetofifnine,journ_overhour,household_size,avg_num_room,avg_num_household,house_cond,house_reg_maint,house_maj_maint,income_after_tax_median,unemp_rate,emp_rate
+CTUID,pop,land_kmsq,single_det,edu_total,no_edu,edu_dip,edu_postsec,pop_dens,jour_work,jour_lessfifteen,jour_fiftotwnine,journ_thirtytofourfour,journ_fourfivetofifnine,journ_overhour,household_size,avg_num_room,avg_num_household,house_cond,house_reg_maint,house_maj_maint,income_after_tax_median,emp_rate,unemp_rate
 5370000,747545,1371.89,165060,612635,109090,170595,332950,544.9,342520,78050,125305,66410,30720,42030,293345,6.5,2.5,293345,274975,18370,32073,60.2,6.6
 5370001.01,2193,5.52,475,1735,355,535,845,397.6,955,215,380,165,80,115,765,7.3,2.9,760,725,35,30240,58.9,4.2
 5370001.02,5302,1.29,970,4235,840,1265,2135,4102.4,2640,525,1020,540,235,315,1760,7,3,1755,1690,70,31040,65.3,6.9
