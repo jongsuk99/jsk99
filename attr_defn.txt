@@ -1,0 +1,24 @@
+2016 Census Profiles Files / Profile of Census Tracts
+CTUID - GEO UID
+pop - Population and dwelling counts / Population, 2016
+land_kmsq - Population and dwelling counts / Land area in square kilometres
+single_det - Dwelling characteristics / Total - Occupied private dwellings by structural type of dwelling - 100% data / Single-detached house
+edu_total - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data
+no_edu - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data / No certificate, diploma or degree
+edu_dip - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data / Secondary (high) school diploma or equivalency certificate
+edu_postsec - Education - Total Sex / Total - Highest certificate, diploma or degree for the population aged 15 years and over in private households - 25% sample data / Postsecondary certificate, diploma or degree
+pop_dens - Population and dwelling counts / Population density per square kilometre
+jour_work - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data
+jour_lessfifteenmin - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / Less than 15 minutes
+jour_fiftotwnine - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 15 to 29 minutes
+journ_thirtytofourfour - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 30 to 44 minutes
+journ_fourfivetofifnine - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 45 to 59 minutes
+journ_overanhour - Journey to Work - Total Sex / Total - Commuting duration for the employed labour force aged 15 years and over in private households with a usual place of work or no fixed workplace address - 25% sample data / 60 minutes and over
+household_size - Dwelling characteristics / Total - Private households by household size - 100% data
+avg_num_household - Housing - Total Sex / Average number of rooms per dwelling
+house_cond - Dwelling characteristics / Average household size
+house_maj_maint -Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Major repairs needed
+house_reg_maint - COL4 - Housing - Total Sex / Total - Occupied private dwellings by dwelling condition - 25% sample data / Only regular maintenance or minor repairs needed
+income_after_tax_median - Income - Total Sex / Total - Income statistics in 2015 for the population aged 15 years and over in private households - 100% data / Number of after-tax income recipients aged 15 years and over in private households - 100% data / Median after-tax income in 2015 among recipients ($)
+
+
